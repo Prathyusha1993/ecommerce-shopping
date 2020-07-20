@@ -5,7 +5,7 @@
 
 
 
-o be implemented
+To be implemented
 
 1. Unit tests
 2. Logs
